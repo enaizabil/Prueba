@@ -1,5 +1,10 @@
 package Git;
 
+/**
+ * 
+ * @author Propietario
+ *
+ */
 public class GitPrueba {
 	
 
